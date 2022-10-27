@@ -251,7 +251,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 10-3-349,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Cabildo 34,-34.574828000000004,-58.436126,Cabildo 34,Autoservicio
 10-3-350,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Humboldt 1982,-34.582757,-58.433094,Humboldt 1982,Autoservicio
 10-3-351,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Echeverría 2067,-34.560973,-58.452616000000006,Echeverría 2067,Autoservicio
-10-3-352,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Rodríguez Peña 1185,-34.595055,-58.391999999999996,Rodríguez Peña 1185,Autoservicio
+10-3-352,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Rodríguez Peña 1185,-34.595055,-58.392,Rodríguez Peña 1185,Autoservicio
 10-3-353,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Talcahuano 467,-34.60322,-58.385088,Talcahuano 467,Autoservicio
 10-3-354,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Paraná 1053,-34.59632,-58.388332,Paraná 1053,Autoservicio
 10-3-355,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Pueyrredón 1054,-34.59788,-58.40378199999999,Pueyrredón 1054,Autoservicio
@@ -456,7 +456,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 10-3-602,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Rivadavia 8688,-34.635054,-58.486294,Rivadavia 8688-90,Autoservicio
 10-3-604,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Estado De Israel 4684,-34.600614,-58.4308,Av. Estado de Israel 4684,Autoservicio
 10-3-605,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Juan Bautista Alberdi 7071,-34.65922800000001,-58.512962,Juan B. Alberdi 7071,Autoservicio
-10-3-606,10,3,Express,INC S.A.,AR-X,Córdoba,Ovispo Trejo 1166,-31.428959000000006,-64.19116,Ovispo Trejo 1166,Autoservicio
+10-3-606,10,3,Express,INC S.A.,AR-X,Córdoba,Ovispo Trejo 1166,-31.42895900000001,-64.19116,Ovispo Trejo 1166,Autoservicio
 10-3-607,10,3,Express,INC S.A.,AR-X,Córdoba,Chacabuco 727,-31.426127,-64.183581,Chacabuco 727,Autoservicio
 10-3-608,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Serrano 280,-34.598185,-58.44498299999999,Serrano 280,Autoservicio
 10-3-609,10,3,Express,INC S.A.,AR-C,Ciudad Autónoma de Buenos Aires,Av. Del Libertador 4534,-34.566538,-58.431944,Av. del Libertador 4534,Autoservicio
@@ -774,15 +774,15 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-101,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Choele Choel,Avellaneda 962,-39.29264933198453,-65.65980029272765,Choele Choel II,Supermercado
 13-1-102,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Lamarque,Rivadavia 412,-39.42213316561279,-65.70491480844794,Lamarque,Supermercado
 13-1-103,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Luis Beltran,Avellaneda 710,-39.311137921000686,-65.76214027474634,Luis Beltran,Supermercado
-13-1-104,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Trenque Lauquen,Av. Regimiento 3 De Caballería 853,-35.98267013753607,-62.742946386342744,Trenque Lauquen,Supermercado
+13-1-104,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Trenque Lauquen,Av. Regimiento 3 De Caballería 853,-35.98267013753607,-62.74294638634274,Trenque Lauquen,Supermercado
 13-1-105,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Catriel,Av. San Martín 516,-37.88332175222674,-67.79881954193115,Catriel,Supermercado
 13-1-106,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Pehuajó,Alsina 253,-35.81250043643693,-61.89579033854898,Pehuajó I,Supermercado
 13-1-107,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Allen,Irigoyen 648,-38.975638398537015,-67.83520889352076,Allen III,Supermercado
 13-1-108,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Zapala,Avellaneda 720,-38.90446699317285,-70.06100329774199,Zapala,Hipermercado
 13-1-109,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Pehuajó,Av. San Martín 105,-35.820289958679794,-61.89801299580722,Pehuajó II,Autoservicio
 13-1-11,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Perito Moreno 2132,-38.75483169743749,-62.265606122684574,Villa Rosas,Supermercado
-13-1-110,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Alem 3170,-38.68393932708354,-62.291509687202044,Alem,Supermercado
-13-1-111,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,9 de Julio,Av. Mitre 2537,-35.451289482419185,-60.897476345126044,9 de Julio,Supermercado
+13-1-110,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Alem 3170,-38.68393932708354,-62.29150968720205,Alem,Supermercado
+13-1-111,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,9 de Julio,Av. Mitre 2537,-35.451289482419185,-60.89747634512605,9 de Julio,Supermercado
 13-1-112,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Lobería,Av. San Martín 143,-38.16471323152355,-58.78192359206878,Lobería,Supermercado
 13-1-113,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Neuquén,Chocon Entre Bahia Y Mex 0,-38.96891627597632,-68.0502440930286,Neuquen II,Supermercado
 13-1-114,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Cutral Co,Maipu 1363,-38.935351173233926,-69.24781250971137,Cutral Co,Autoservicio
@@ -792,8 +792,8 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-118,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Loncopué,Av. San Martín Esq. Sarmi 0,-38.07324923015833,-70.61682875455517,Loncopue,Autoservicio
 13-1-119,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,San Martín de los Andes,Gral. Villegas 950,-40.15730593607521,-71.34851780538156,San Martin I,Autoservicio
 13-1-12,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Paraguay 445,-38.70776946221014,-62.26739162209924,B° Universitario,Supermercado
-13-1-120,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Viedma,Moreno 1036,-40.810170565027924,-63.00089469554223,Viedma II,Autoservicio
-13-1-121,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Cipolletti,Avda.Menguelle 0,-38.929159387799636,-67.99884250762261,Cipolletti II,Autoservicio
+13-1-120,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Viedma,Moreno 1036,-40.81017056502792,-63.00089469554223,Viedma II,Autoservicio
+13-1-121,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Cipolletti,Avda.Menguelle 0,-38.92915938779964,-67.99884250762261,Cipolletti II,Autoservicio
 13-1-122,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,San Martín de los Andes,Pasaje La Islita 26,-40.15000813172369,-71.32222822343466,San Martin II,Autoservicio
 13-1-123,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,San Martín de los Andes,Los Lagos 1692,-40.13060418944226,-71.2251373543404,San Martin III,Autoservicio
 13-1-124,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Neuquén,Av Del Trabaj Y Dr Ramon 0,-38.9418903934362,-68.11559906636829,Neuquen III,Autoservicio
@@ -813,9 +813,9 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-16,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-L,Guatrache,Av. J. A. Goude Y Pringles 470,-37.66901520951271,-63.53782206773752,Guatrache,Supermercado
 13-1-17,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Punta Alta,Sáenz Peña 467,-38.87821062395813,-62.06410991401674,Punta Alta I,Supermercado
 13-1-18,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Roca 34,-38.71575914692985,-62.27162326850896,Roca,Supermercado
-13-1-19,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Punta Alta,Brown 128,-38.884896043742756,-62.075002625656175,Punta Alta II,Supermercado
+13-1-19,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Punta Alta,Brown 128,-38.88489604374276,-62.075002625656175,Punta Alta II,Supermercado
 13-1-2,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Washington 437,-38.728791630262535,-62.2442264146805,Villa Mitre,Supermercado
-13-1-20,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Azul,Av. Piazza 1101,-36.785215529085434,-59.849216222719406,Azul,Hipermercado
+13-1-20,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Azul,Av. Piazza 1101,-36.78521552908544,-59.849216222719406,Azul,Hipermercado
 13-1-21,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Pigue,Belgrano Y Humberto 0,-37.60295050923169,-62.40934926424029,Pigue,Supermercado
 13-1-22,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Dorrego,Av. San Martín 274,-38.713565287698906,-61.29378994979851,Dorrego,Supermercado
 13-1-23,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Thompson 1133,-38.73337836454685,-62.260187745159776,B° Pedro Pico,Supermercado
@@ -824,7 +824,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-26,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Suarez,Av. Casey 1414,-37.46072885976261,-61.93615024871826,Cnel. Suarez,Supermercado
 13-1-27,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Tres Arroyos,Av. Moreno 745,-38.3825,-60.2685,Tres Arroyos I,Supermercado
 13-1-28,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Guatemala 533,-38.69972750987872,-62.27513440475462,Hiper Aguado,Hipermercado
-13-1-29,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Pringles,Pellegrini 771,-37.98374648245796,-61.353699803385105,Cnel. Pringles,Supermercado
+13-1-29,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Pringles,Pellegrini 771,-37.98374648245796,-61.35369980338511,Cnel. Pringles,Supermercado
 13-1-3,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,General Cerri,Saavedra 462,-38.72068115915464,-62.392348765279166,Cerri,Supermercado
 13-1-30,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Tres Arroyos,Colón 33,-38.378,-60.2765,Tres Arroyos II,Supermercado
 13-1-31,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Puan,H. Yrigoyen 491,-37.54617145444056,-62.77049517644628,Puan,Supermercado
@@ -844,20 +844,20 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-44,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Láinez 2251,-38.72810880771607,-62.22958583068851,B° Villa Libre,Supermercado
 13-1-45,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Tres Arroyos,Av. Belgrano 838,-38.3706,-60.268,Tres Arroyos III,Supermercado
 13-1-46,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Almafuerte 2544,-38.7055,-62.3028,B° Richieri,Supermercado
-13-1-47,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Pringles,Av. 25 De Mayo 1565,-37.97666059690332,-61.359823822713224,Hipervisión,Supermercado
+13-1-47,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Pringles,Av. 25 De Mayo 1565,-37.97666059690332,-61.35982382271322,Hipervisión,Supermercado
 13-1-48,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Coronel Pringles,Mitre 999,-37.9854,-61.354,Visión I,Supermercado
 13-1-49,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Tte. Farías 1283,-38.7417,-62.2672,Villa Ressia,Supermercado
 13-1-5,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Belgrano 45,-38.71971751065668,-62.26284139881136,Centro,Hipermercado
-13-1-50,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Av. Pringles 50,-38.716030148828956,-62.24882000671642,Bella Vista,Supermercado
+13-1-50,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Av. Pringles 50,-38.71603014882896,-62.24882000671642,Bella Vista,Supermercado
 13-1-51,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,General Paz 249,-38.72,-62.25779999999998,General Paz,Supermercado
 13-1-52,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-L,General Acha,Don Bosco 582,-37.37872927469225,-64.60075950635654,General Acha,Supermercado
 13-1-53,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,H. Yrigoyen 361,-38.7144,-62.262,Yrigoyen,Supermercado
 13-1-54,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,14 De Julio 4099,-38.6987,-62.2114,B° Patagonia,Supermercado
 13-1-55,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,General Lamadrid,Azcuénaga 638,-37.25074912158641,-61.2633951902717,Lamadrid,Supermercado
 13-1-56,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Azul,Av. 25 De Mayo 1272,-36.788827761866905,-59.871529162628576,Azul II,Supermercado
-13-1-57,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Punta Alta,Saavedra 55,-38.886620180868896,-62.070337191398714,Punta Alta IV,Supermercado
+13-1-57,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Punta Alta,Saavedra 55,-38.886620180868896,-62.07033719139872,Punta Alta IV,Supermercado
 13-1-58,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Cinco Saltos,Av. Roca 998,-38.82401733188616,-68.06949687170714,Cinco Saltos,Supermercado
-13-1-59,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Olavarría,Rivadavia 1751,-36.90082972971168,-60.331497073239014,Olavarria III,Supermercado
+13-1-59,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Olavarría,Rivadavia 1751,-36.90082972971168,-60.33149707323901,Olavarria III,Supermercado
 13-1-6,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,9 De Julio 136,-38.724145126768576,-62.276518136698655,B° Almafuerte,Supermercado
 13-1-60,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,General Roca,Tucumán 1330,-39.02770092079764,-67.58329921964105,Gral. Roca I,Hipermercado
 13-1-61,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,General Roca,Tucumán 358,-39.02938240761715,-67.56962531808314,Gral. Roca II,Supermercado
@@ -880,7 +880,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-77,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Viedma,Saavedra 1455,-40.8148,-63.0052,Viedma,Hipermercado
 13-1-78,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,General Villegas,Castelli 589,-35.02964231976656,-63.016989111965806,Gral. Villegas,Supermercado
 13-1-79,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Allen,San Martín 454,-38.979371616288034,-67.82285857207171,Allen I,Supermercado
-13-1-8,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Saavedra,25 De Mayo E Independencia 0,-37.76214567253496,-62.354642397117644,Saavedra,Supermercado
+13-1-8,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Saavedra,25 De Mayo E Independencia 0,-37.76214567253496,-62.35464239711765,Saavedra,Supermercado
 13-1-80,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Allen,Roca 585,-38.98309546319121,-67.83118271836429,Allen II,Autoservicio
 13-1-81,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Fernandez Oro,San Martín 22,-38.95613589411637,-67.92118155965,Fernandez Oro I,Supermercado
 13-1-82,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-R,Fernandez Oro,Mitre 419,-38.952648418329176,-67.92718434342532,Fernandez Oro II,Supermercado
@@ -892,10 +892,10 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 13-1-88,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Mayor Buratovich,Sarmiento 942,-39.25833308348877,-62.61374330555554,Mayor Buratovich,Supermercado
 13-1-89,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Médanos,Bustamante 403,-38.82795457624873,-62.69594872006565,Medanos,Supermercado
 13-1-9,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bahía Blanca,Brickman 882,-38.7364,-62.2697,B° San Martín,Supermercado
-13-1-90,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Villalonga,Don Bosco 172,-39.91463597498253,-62.620245695125035,Villalonga,Supermercado
+13-1-90,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Villalonga,Don Bosco 172,-39.91463597498253,-62.62024569512504,Villalonga,Supermercado
 13-1-91,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Bolivar,General Paz 98,-36.231536888649394,-61.11475968369632,Bolivar,Supermercado
 13-1-92,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Mar del Plata,Fortunato De La Plaza 3471,-38.0526,-57.56100000000001,Mar del Plata I,Supermercado
-13-1-93,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Mar del Plata,Av. Constitución 6581,-37.95745091924479,-57.569330155893105,Mar del Plata II,Hipermercado
+13-1-93,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Mar del Plata,Av. Constitución 6581,-37.95745091924479,-57.56933015589311,Mar del Plata II,Hipermercado
 13-1-94,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-B,Henderson,Florida 537,-36.30096076498136,-61.71770417699008,Henderson,Supermercado
 13-1-95,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Centenario,Canadá 835,-38.829058721432936,-68.13936831736544,Centenario 6,Supermercado
 13-1-96,13,1,Cooperativa Obrera Limitada de Consumo y Vivienda,Cooperativa Obrera Limitada de Consumo y Vivienda,AR-Q,Centenario,Ballester 383,-38.82733607355149,-68.12438079712592,Centenario 7,Supermercado
@@ -958,7 +958,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 15-1-1043,15,1,Supermercados DIA,DIA Argentina S.A,AR-E,Gualeguay,Cl Maipu 234,-33.149666,-59.316711,1043 - Gualeguay,Supermercado
 15-1-1044,15,1,Supermercados DIA,DIA Argentina S.A,AR-E,Villaguay,Cl San Martin 1524,-31.855744,-59.027234,1044 - Villaguay,Supermercado
 15-1-1045,15,1,Supermercados DIA,DIA Argentina S.A,AR-E,Concordia,Av Alvear 954,-31.390211600000004,-58.0243081,1045 - Concordia,Supermercado
-15-1-1046,15,1,Supermercados DIA,DIA Argentina S.A,AR-E,Chajari,Av Alem 1960,-30.761145000000006,-57.996407,1046 - Chajari,Supermercado
+15-1-1046,15,1,Supermercados DIA,DIA Argentina S.A,AR-E,Chajari,Av Alem 1960,-30.76114500000001,-57.996407,1046 - Chajari,Supermercado
 15-1-1047,15,1,Supermercados DIA,DIA Argentina S.A,AR-B,Avellaneda,Av Belgrano 4222,-34.7177549,-58.34422320000001,1047 - Avellaneda,Supermercado
 15-1-1048,15,1,Supermercados DIA,DIA Argentina S.A,AR-X,Bell Ville,Cl Cordoba 602,-32.629875,-62.694435,1048 - Bell Ville,Supermercado
 15-1-1049,15,1,Supermercados DIA,DIA Argentina S.A,AR-X,Marcos Juarez,Cl Belgrano 951,-32.6955357,-62.104534,1049 - Marcos Juarez,Supermercado
@@ -1527,7 +1527,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 15-1-8006,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Espaã±A 2195,-24.7869634,-65.43233029999999,8006 - Salta,Autoservicio
 15-1-8007,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Av Gral San Martin 1891,-24.7922771,-65.42917460000001,8007 - Salta,Autoservicio
 15-1-8008,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Miguel De Azcuenaga 2295,-24.8034671,-65.43734079999999,8008 - Salta,Autoservicio
-15-1-8009,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Sarmiento 0,-24.985616500000006,-65.5777397,8009 - Salta,Autoservicio
+15-1-8009,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Sarmiento 0,-24.98561650000001,-65.5777397,8009 - Salta,Autoservicio
 15-1-801,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Urquiza 680,-24.792053,-65.41239499999999,801 - Salta,Autoservicio
 15-1-8010,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,J De Dios Usandivaras 0,-24.793708,-65.440698,8010 - Salta,Autoservicio
 15-1-8011,15,1,Supermercados DIA,DIA Argentina S.A,AR-A,Salta,Las Golondrinas 1512,-24.849116,-65.43395,8011 - Salta,Autoservicio
@@ -1576,7 +1576,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 16-2-4204,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Sagrada Familia 1305,-31.38671,-64.22750699999999,Mini Libertad Sagrada Familia,Autoservicio
 16-2-4604,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Av. Emilio Caraffa 2683,-31.387203000000003,-64.21509499999999,Mini Libertad Caraffa,Autoservicio
 16-2-4804,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Rodeau 581,-31.424348,-64.178865,Mini Libertad Rondeau ,Autoservicio
-16-2-5204,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Tucumán 138,-31.413303000000006,-64.187476,Mini Libertad Tucuman,Autoservicio
+16-2-5204,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Tucumán 138,-31.41330300000001,-64.187476,Mini Libertad Tucuman,Autoservicio
 16-2-5404,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Paraná 475,-31.423638,-64.17975,Mini Libertad Parana,Autoservicio
 16-2-5504,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,José Roque Funes 1145,-31.380531,-64.24515,Petit Barranquitas Mall,Autoservicio
 16-2-5604,16,2,Mini Libertad,Libertad S.A,AR-X,Capital,Av República De China 1045,-31.377987,-64.277458,Petit Valle Mall,Autoservicio
@@ -1647,7 +1647,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 2-1-057,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-B,Chivilcoy,Av. Federico Soarez 52,-34.8954,-60.0175,CHIVILCOY,Supermercado
 2-1-058,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-B,Bragado,Rivadavia 2070,-35.11983,-60.48045,BRAGADO,Supermercado
 2-1-067,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-S,Venado Tuerto,Av.Casey 799,-33.74657,-61.96796,VENADO TUERTO,Supermercado
-2-1-068,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-Q,Neuquen,Antartida Argentina 1111,-38.946999999999996,-68.07342,HIPERMERCADO NEUQUEN,Hipermercado
+2-1-068,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-Q,Neuquen,Antartida Argentina 1111,-38.947,-68.07342,HIPERMERCADO NEUQUEN,Hipermercado
 2-1-069,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-B,Carmen de Patagones,San Lorenzo 59,-40.79919,-62.97805,C. DE PATAGONES,Supermercado
 2-1-072,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-Z,Rio Gallegos,Maipu 1332,-51.63219,-69.19811999999999,AUTOSERVICIO 2 R.GALLEGOS,Hipermercado
 2-1-074,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-V,Rio Grande,Av.San Martin 1605,-53.77885,-67.71814,RIO GRANDE 4,Hipermercado
@@ -1696,7 +1696,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 2-1-162,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-Q,Neuquen,Belgrano 3775,-38.95045,-68.11147,NEUQUEN III,Supermercado
 2-1-163,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-R,Sierra Grande,J.J. Paso 100,-41.61137,-65.35849,SIERRA GRANDE,Supermercado
 2-1-164,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-R,Cipolletti,Esmeralda 1333,-38.92663,-67.99051,CIPOLLETTI 3,Supermercado
-2-1-165,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-R,El Bolson,Guemes 741,-41.971000000000004,-71.53105,EL BOLSON 2,Supermercado
+2-1-165,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-R,El Bolson,Guemes 741,-41.971,-71.53105,EL BOLSON 2,Supermercado
 2-1-166,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-V,Ushuaia,Los Ñires 2237,-54.83064,-68.35343,USHUAIA 5,Supermercado
 2-1-167,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-U,Puerto Madryn,Chubut 1400,-42.78087,-65.03707,PUERTO MADRYN 3,Supermercado
 2-1-168,2,1,La Anonima,S.A. Importadora y Exportadora de la Patagonia,AR-U,Trevelin,Av. San Martin 1440,-43.09829000000001,-71.46401999999998,TREVELIN,Supermercado
@@ -1969,8 +1969,8 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 47-1-3,47,1,Sup. Unicoop        ,Cooperativa Agrícola Ganadera e Industrial de Patagones y Viedma LTA.,AR-B,Stroeder            ,Santa Fe 407,-40.186761,-62.618364,Stroeder                                                    ,Autoservicio
 49-1-2,49,1,Super Tuti1 y Super Tuti 3,ARNALDO P. APPELLA S.A.,AR-B,9 de Julio,Av. 25 De Mayo Y Garmendia 0,-35.437917,-60.88943100000001,Super TUTI 3,Supermercado
 5-1-1,5,1,California Supermercados,California S.A.,AR-N,Posadas,Cordoba 2062,-27.367621000000003,-55.89650200000001,Local 1,Hipermercado
-5-1-2,5,1,California Supermercados,California S.A.,AR-N,Posadas,Santiago Del Estero 2075,-27.373226000000006,-55.897406,Local 2,Hipermercado
-5-1-3,5,1,California Supermercados,California S.A.,AR-N,Posadas,Av. Lavalle 5495,-27.396928000000006,-55.909301,Local 3,Hipermercado
+5-1-2,5,1,California Supermercados,California S.A.,AR-N,Posadas,Santiago Del Estero 2075,-27.37322600000001,-55.897406,Local 2,Hipermercado
+5-1-3,5,1,California Supermercados,California S.A.,AR-N,Posadas,Av. Lavalle 5495,-27.39692800000001,-55.909301,Local 3,Hipermercado
 5-1-4,5,1,California Supermercados,California S.A.,AR-N,Posadas,Av. Uruguay 4652,-27.391194,-55.900862,Local 4,Hipermercado
 5-1-5,5,1,California Supermercados,California S.A.,AR-N,Posadas,Juan B. Alberdi 1095,-27.360006,-55.893729,Local 5,Hipermercado
 5-1-6,5,1,California Supermercados,California S.A.,AR-N,Posadas,Av. Tambor De Tacuari 7450,-27.365024,-55.95188,Local 6,Hipermercado
@@ -2042,7 +2042,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 7-2-806,7,2,Abastecimiento Mercamax,Cyre S.A.,AR-X,CORDOBA,Ruta 9 Km 9 None,-31.312421,-64.17662800000001,Mercamax 806,Supermercado
 7-2-807,7,2,Abastecimiento Mercamax,Cyre S.A.,AR-X,CORDOBA,Coornelio Saavedra 2990,-31.378481,-64.196087,Mercamax 807,Supermercado
 7-2-808,7,2,Abastecimiento Mercamax,Cyre S.A.,AR-X,CORDOBA,Aaron Castellanos 1955,-31.432482,-64.23448,Mercamax 808,Supermercado
-8-1-1,8,1,Mariano Max,Mariano S.A.,AR-X,CORDOBA,Av. 11 De Septiembre 2765,-31.443295000000006,-64.148264,Sucursal 1,Supermercado
+8-1-1,8,1,Mariano Max,Mariano S.A.,AR-X,CORDOBA,Av. 11 De Septiembre 2765,-31.44329500000001,-64.148264,Sucursal 1,Supermercado
 8-1-2,8,1,Mariano Max,Mariano S.A.,AR-X,CORDOBA,Av. Arturo Capdevila 1831,-31.379569,-64.14765200000001,Sucursal 2,Hipermercado
 8-1-3,8,1,Mariano Max,Mariano S.A.,AR-X,CORDOBA,Carlos Gimenez 35,-31.365896000000006,-64.16644000000001,Sucursal 3,Supermercado
 8-1-4,8,1,Mariano Max,Mariano S.A.,AR-X,jesus maria,Italia 363,-30.978745,-64.092456,Sucursal 4,Supermercado
@@ -2171,7 +2171,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 9-1-677,9,1,Vea,Jumbo Retail Argentina S.A.,AR-B,SALADILLO,Ministro Soho 2936,-35.6388,-59.7762,Saladillo,Supermercado
 9-1-685,9,1,Vea,Jumbo Retail Argentina S.A.,AR-E,CHAJARI,Av. 9 De Julio E/ Mendoza Y Chaco 0,-30.7625,-57.9939,Chajari,Supermercado
 9-1-686,9,1,Vea,Jumbo Retail Argentina S.A.,AR-E,GUALEGUAYCHU,San Martín Entre Parana Y Gualeguay 0,-33.0106,-58.5279,Gualeguaychú,Supermercado
-9-1-688,9,1,Vea,Jumbo Retail Argentina S.A.,AR-W,GOYA,Belgrano Gral Manuel 799,-29.136999999999997,-59.2646,Goya II,Supermercado
+9-1-688,9,1,Vea,Jumbo Retail Argentina S.A.,AR-W,GOYA,Belgrano Gral Manuel 799,-29.137,-59.2646,Goya II,Supermercado
 9-1-690,9,1,Vea,Jumbo Retail Argentina S.A.,AR-X,RIO TERCERO,Avenida Acuña Modesto 50,-32.174,-64.1094,Rio Tercero II.,Supermercado
 9-1-691,9,1,Vea,Jumbo Retail Argentina S.A.,AR-W,PASO DE LOS LIBRES,Mitre Y Reguera 0,-29.7058,-57.0975,Paso de los Libres,Supermercado
 9-1-692,9,1,Vea,Jumbo Retail Argentina S.A.,AR-B,LANUS,Avenida Yrigoyen Presidente Hipolito 3043,-34.6914,-58.3914,Lanus,Hipermercado
@@ -2234,11 +2234,11 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 9-2-137,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Montivideo 1037,-34.5964,-58.3902,Montevideo.,Supermercado
 9-2-14,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Avenida Las Heras Gral Juan Gregorio De 3925,-34.5608,-58.4499,Las Heras..,Supermercado
 9-2-15,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Avenida Salguero Jeronimo 2727,-34.5801,-58.4092,Salguero.,Supermercado
-9-2-152,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,RAMOS MEJIA,Avenida Rivadavia 14452,-34.641999999999996,-58.5702,Ramos Mejía.,Supermercado
+9-2-152,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,RAMOS MEJIA,Avenida Rivadavia 14452,-34.642,-58.5702,Ramos Mejía.,Supermercado
 9-2-154,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,MORON,Garcia Silva Intendente 855,-34.6537,-58.6231,Morón II.,Supermercado
 9-2-156,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,CASTELAR,Arias Gobernador Inocendio 3247,-34.6491,-58.6561,Castelar Norte.,Supermercado
 9-2-16,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Paraguay 4302,-34.5861,-58.4245,Paraguay.,Supermercado
-9-2-161,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,MORENO,Victorica Y Pte. Perón 0,-34.6353,-58.791000000000004,Moreno II.,Supermercado
+9-2-161,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,MORENO,Victorica Y Pte. Perón 0,-34.6353,-58.791,Moreno II.,Supermercado
 9-2-163,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,BELLA VISTA,Avenida Moron Senador 960,-34.5608,-58.6785,Bella Vista.,Supermercado
 9-2-18,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Avenida Quintana Pres Manuel 366,-34.5897,-58.3886,Quintana.,Supermercado
 9-2-2,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Talcahuano 1055,-34.5964,-58.3876,Talcahuano.,Supermercado
@@ -2277,7 +2277,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 9-2-456,9,2,Disco,Jumbo Retail Argentina S.A.,AR-X,JESUS MARIA,Olmos Ing 33,-30.9804,-64.096,Jesús María.,Supermercado
 9-2-46,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Esmeralda 1365,-34.5918,-58.3793,Esmeralda.,Supermercado
 9-2-460,9,2,Disco,Jumbo Retail Argentina S.A.,AR-X,CORDOBA,Avenida Ricchieri 3296,-31.4507,-64.1767,Ricchieri.,Supermercado
-9-2-468,9,2,Disco,Jumbo Retail Argentina S.A.,AR-X,CORDOBA,Recta Martinolli 7120,-31.366999999999997,-64.2194,Recta Martinolli.,Supermercado
+9-2-468,9,2,Disco,Jumbo Retail Argentina S.A.,AR-X,CORDOBA,Recta Martinolli 7120,-31.367,-64.2194,Recta Martinolli.,Supermercado
 9-2-48,9,2,Disco,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Gascon Esteban Agustin 649,-34.6033,-58.4264,Gascón.,Supermercado
 9-2-49,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,PINAMAR,Rivadavia Y Tororas 0,-37.1082,-56.8731,Pinamar.,Supermercado
 9-2-50,9,2,Disco,Jumbo Retail Argentina S.A.,AR-B,VILLA GESELL,Avenida 3 1081,-37.2636,-56.9766,Gesell Central.,Supermercado
@@ -2307,7 +2307,7 @@ id,comercioId,banderaId,banderaDescripcion,comercioRazonSocial,provincia,localid
 9-3-5034,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,QUILMES,Av. Mitre E/ Juan De Solis Y Guido 0,-34.7282,-58.251000000000005,Jumbo Quilmes II,Supermercado
 9-3-5201,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Avenida Fernandez De La Cruz Gral Francisco 4602,-34.6746,-58.4628,Jumbo Escalada,Hipermercado
 9-3-5202,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,MARTINEZ,Avenida Parana 3745,-34.5084,-58.5227,Jumbo Martínez,Hipermercado
-9-3-5204,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,LLAVALLOL,Frias Gral Eustaquio 3201,-34.7932,-58.413999999999994,Jumbo Lomas,Hipermercado
+9-3-5204,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,LLAVALLOL,Frias Gral Eustaquio 3201,-34.7932,-58.414,Jumbo Lomas,Hipermercado
 9-3-5205,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,VILLA BALLESTER,Diagonal San Lorenzo 3773,-34.5633,-58.5585,Jumbo San Martín,Hipermercado
 9-3-5206,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-C,CIUDAD AUTONOMA BUENOS AIRES,Avenida Bullrich Inte 345,-34.5745,-58.4272,Jumbo Palermo,Hipermercado
 9-3-5207,9,3,Jumbo,Jumbo Retail Argentina S.A.,AR-B,QUILMES OESTE,Ruta Nacional Calchaqui 3950,-34.7588,-58.2805,Jumbo Quilmes,Hipermercado
